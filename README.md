@@ -1,3 +1,2 @@
-Домашнее задание для Netology.ru для курса Java Developer   
-
-Описание и инструкция к выполнению [здесь](https://github.com/netology-code/jd-homeworks/tree/master/jvm/README.md)
+![Alt text](Metaspace.png?raw=true "Optional Title")
+![Alt text](Heap.png?raw=true "Optional Title")
